@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 15:22:48.417.pas,C:\Documents and Settings\Aldo\Meus documentos\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Consulta com DB\UPrincipal.pas</Transaction>
+    <Transaction>2023/03/14 15:22:48.417.dfm,C:\Documents and Settings\Aldo\Meus documentos\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Consulta com DB\UPrincipal.dfm</Transaction>
+    <Transaction>2023/03/14 15:23:02.978.bdsproj,C:\Documents and Settings\Aldo\Meus documentos\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Consulta com DB\ConsultaDB.bdsproj</Transaction>
+    <Transaction>2023/03/14 15:36:54.303.pas,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Consulta com DB\Unit1.pas=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Consulta com DB\UDM.pas</Transaction>
+    <Transaction>2023/03/14 15:36:54.303.dfm,C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Consulta com DB\Unit1.dfm=C:\Documents and Settings\Aldo\Meus documentos\Projetos Delphi\Consulta com DB\UDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
